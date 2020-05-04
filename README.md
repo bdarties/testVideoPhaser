@@ -1,2 +1,0 @@
-# testVideoPhaser
-Created with CodeSandbox
